@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/ISO%2027001-Automation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/github/last-commit/shahmikh/ISO27001-Automation?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Automated%20Pipeline-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/shahmikh/ISO27001-Automation?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-shahmikh-ali-6b962b201/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
 # ISO 27001 Compliance Automation Engine (Python)
 
 A fully automated ISO 27001 Annex A compliance tool that:
