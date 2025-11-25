@@ -1,10 +1,3 @@
-Absolutely — here is the **entire README.md in ONE SINGLE CODE BLOCK** so you can copy it with one click.
-
-👇 **Copy this whole block into your GitHub README.md** 👇
-
----
-
-````markdown
 # ISO 27001 Compliance Automation Engine (Python)
 
 A fully automated ISO 27001 Annex A compliance tool that:
