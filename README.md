@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/github/last-commit/shahmikh/ISO27001-Automation?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Automated%20Pipeline-success?style=for-the-badge" />
-  <img src="https://img.shields.io/github/LICENSE/shahmikh/ISO27001-Automation?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/shahmikh/ISO27001-Automation?style=for-the-badge" />
 </p>
 
 <p align="center">
