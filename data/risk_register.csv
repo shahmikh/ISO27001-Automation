@@ -1,0 +1,3 @@
+risk_id,description,impact,likelihood,owner
+R001,Unauthorized access to DB,High,Medium,bob
+R002,Loss of laptop with PII,Medium,High,charlie

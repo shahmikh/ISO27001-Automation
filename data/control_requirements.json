@@ -1,0 +1,42 @@
+{
+  "A.5.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["acceptable_use", "data_protection"]
+  },
+  "A.6.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["acceptable_use"]
+  },
+  "A.7.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["data_protection"]
+  },
+  "A.8.1": {
+    "required_evidence": ["asset_inventory"],
+    "required_policies": []
+  },
+  "A.9.1": {
+    "required_evidence": ["policy", "config"],
+    "required_policies": ["data_protection"]
+  },
+  "A.10.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["data_protection"]
+  },
+  "A.11.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["acceptable_use"]
+  },
+  "A.12.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["acceptable_use"]
+  },
+  "A.13.1": {
+    "required_evidence": ["policy"],
+    "required_policies": ["data_protection"]
+  },
+  "A.14.1": {
+    "required_evidence": ["policy", "config"],
+    "required_policies": ["acceptable_use", "data_protection"]
+  }
+}

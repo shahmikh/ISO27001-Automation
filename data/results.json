@@ -1,0 +1,116 @@
+[
+  {
+    "control_id": "A.5.1",
+    "title": "Policies for information security",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 32.93
+  },
+  {
+    "control_id": "A.6.1",
+    "title": "Organization of information security",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 21.33
+  },
+  {
+    "control_id": "A.7.1",
+    "title": "People security",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 26.14
+  },
+  {
+    "control_id": "A.8.1",
+    "title": "Asset management",
+    "status": "Not Compliant",
+    "weight": 1.5,
+    "weighted_score": 0,
+    "missing_evidence": [
+      "asset_inventory"
+    ],
+    "missing_policies": [
+      "nan"
+    ],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 27.63
+  },
+  {
+    "control_id": "A.9.1",
+    "title": "Access control",
+    "status": "Compliant",
+    "weight": 2.0,
+    "weighted_score": 2.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 19.86
+  },
+  {
+    "control_id": "A.10.1",
+    "title": "Cryptography",
+    "status": "Compliant",
+    "weight": 2.0,
+    "weighted_score": 2.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "acceptable_use.txt",
+    "match_score": 26.18
+  },
+  {
+    "control_id": "A.11.1",
+    "title": "Physical security",
+    "status": "Compliant",
+    "weight": 1.5,
+    "weighted_score": 1.5,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 24.83
+  },
+  {
+    "control_id": "A.12.1",
+    "title": "Operations security",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 33.33
+  },
+  {
+    "control_id": "A.13.1",
+    "title": "Communications security",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "data_protection.txt",
+    "match_score": 26.25
+  },
+  {
+    "control_id": "A.14.1",
+    "title": "System acquisition",
+    "status": "Compliant",
+    "weight": 1.0,
+    "weighted_score": 1.0,
+    "missing_evidence": [],
+    "missing_policies": [],
+    "best_policy_match": "acceptable_use.txt",
+    "match_score": 23.23
+  }
+]

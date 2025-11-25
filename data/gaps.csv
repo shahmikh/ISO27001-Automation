@@ -1,0 +1,2 @@
+control_id,title,missing_evidence,missing_policies,remediation
+A.8.1,Asset management,asset_inventory,nan,"Provide evidence types: asset_inventory (e.g., configs, screenshots, inventory) | Publish or update policies: nan (add PDF/TXT to policies/ + reference in evidence_index.json)"

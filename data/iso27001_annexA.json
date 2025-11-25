@@ -1,0 +1,12 @@
+[
+  {"id":"A.5.1","title":"Policies for information security","description":"Management direction for information security."},
+  {"id":"A.6.1","title":"Organization of information security","description":"Internal organization and roles."},
+  {"id":"A.7.1","title":"People security","description":"Screening, roles, responsibilities."},
+  {"id":"A.8.1","title":"Asset management","description":"Inventory of assets and ownership."},
+  {"id":"A.9.1","title":"Access control","description":"User access management."},
+  {"id":"A.10.1","title":"Cryptography","description":"Encryption controls and key management."},
+  {"id":"A.11.1","title":"Physical security","description":"Secure areas and equipment."},
+  {"id":"A.12.1","title":"Operations security","description":"Operational procedures and responsibilities."},
+  {"id":"A.13.1","title":"Communications security","description":"Network security and information transfer."},
+  {"id":"A.14.1","title":"System acquisition","description":"Security in development and support processes."}
+]

@@ -1,0 +1,4 @@
+asset_id,asset_name,owner,criticality,asset_type
+AS001,Web Server 1,alice,high,server
+AS002,Database Prod,bob,high,database
+AS003,Employee Laptop,charlie,medium,endpoint

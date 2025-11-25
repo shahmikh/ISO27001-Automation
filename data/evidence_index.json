@@ -1,0 +1,7 @@
+{
+  "evidence": [
+    {"id":"EVID001","type":"policy","name":"acceptable_use.txt","path":"policies/acceptable_use.txt"},
+    {"id":"EVID002","type":"policy","name":"data_protection.txt","path":"policies/data_protection.txt"},
+    {"id":"EVID003","type":"config","name":"db_config_snapshot","path":"evidence/db_config.txt"}
+  ]
+}

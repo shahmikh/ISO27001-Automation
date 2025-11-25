@@ -1,0 +1,11 @@
+control_id,title,description,required_evidence,required_policies,best_policy_match,match_score
+A.5.1,Policies for information security,Management direction for information security.,policy,"acceptable_use, data_protection",data_protection.txt,32.93
+A.6.1,Organization of information security,Internal organization and roles.,policy,acceptable_use,data_protection.txt,21.33
+A.7.1,People security,"Screening, roles, responsibilities.",policy,data_protection,data_protection.txt,26.14
+A.8.1,Asset management,Inventory of assets and ownership.,asset_inventory,,data_protection.txt,27.63
+A.9.1,Access control,User access management.,"policy, config",data_protection,data_protection.txt,19.86
+A.10.1,Cryptography,Encryption controls and key management.,policy,data_protection,acceptable_use.txt,26.18
+A.11.1,Physical security,Secure areas and equipment.,policy,acceptable_use,data_protection.txt,24.83
+A.12.1,Operations security,Operational procedures and responsibilities.,policy,acceptable_use,data_protection.txt,33.33
+A.13.1,Communications security,Network security and information transfer.,policy,data_protection,data_protection.txt,26.25
+A.14.1,System acquisition,Security in development and support processes.,"policy, config","acceptable_use, data_protection",acceptable_use.txt,23.23
